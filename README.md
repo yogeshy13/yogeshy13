@@ -1,6 +1,6 @@
 # About Me
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Cloud+Architect+%7C+AI+Lead+Berlin;15%2B+Yrs+Exp+AWS%2FK8s;LangChain+AI+PoCs;Terraform+IaC+Expert;Open+to+DE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Cloud+Architect+%7C+AI+Automations+Manager;15%2B+Yrs+Exp+AWS%2FK8s;LangChain+AI+PoCs;Terraform+IaC+Expert;Open+to+DE+Roles" alt="Typing SVG" />
 </div>
 
 ## 👋 Hi, I'm Yogesh Yadav
@@ -36,4 +36,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/yogesh-y-a8a41b36/))
 [![Email](https://img.shields.io/badge/Email-Contact-Me-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh0387@gmail.com)
 
-**Open to Engineering Manager/SRE roles in Germany 🚀**
+**Open to Engineering Manager/SRE and AI Automation roles in Germany 🚀**
