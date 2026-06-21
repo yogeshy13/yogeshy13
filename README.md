@@ -1,6 +1,6 @@
 # About Me
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Cloud+Architect+%7C+SRE+Lead+Berlin;15%2B+Yrs+Exp+AWS%2FK8s;LangChain+AI+PoCs;Terraform+IaC+Expert;Open+to+DE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Cloud+Architect+%7C+AI+Lead+Berlin+Engineering+Manager;15%2B+Yrs+Exp+AWS%2FK8s;LangChain+AI+PoCs;Terraform+IaC+Expert;Open+to+DE+Roles" alt="Typing SVG" />
 </div>
 
 ## 👋 Hi, I'm Yogesh Yadav
@@ -22,14 +22,10 @@
 
 ## ✨ Featured Projects
 
-[![Terraform ASG](https://img.shields.io/badge/Terraform-ASG%2FEC2%2FRDS-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://github.com/yogeshy13/terraform-portfolio)
-> Auto-scaling t3.large (8GB) EC2 + MySQL RDS + ALB. Live demo: [ALB URL]
+[![Engineering Helper Tool](https://github.com/yogeshy13/AI-Developer-Assistant)
+> AI Assistant helping developer
 
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-EKS%20Cluster-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/yogeshy13/eks-demo)
-> Multi-AZ EKS with Istio + SLOs.
 
-[![LangChain](https://img.shields.io/badge/LangChain-Agentic%20AI-16B8F6?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/yogeshy13/langchain-poc)
-> Enterprise workflow agents.
 
 ## 📊 GitHub Stats
 
