@@ -1,6 +1,6 @@
 # About Me
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Cloud+Architect+%7C+AI+Automations+Manager;15%2B+Yrs+Exp+AWS%2FK8s;LangChain+AI+PoCs;Terraform+IaC+Expert;Open+to+DE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=  Cloud+Architect+%7C+AI+Automations;15%2B+Yrs+Exp+AWS%2FK8s;LangChain+AI+PoCs;Terraform+IaC+Expert;Open+to+DE+Roles" alt="Typing SVG" />
 </div>
 
 ## 👋 Hi, I'm Yogesh Yadav
@@ -16,7 +16,7 @@
 
 | Cloud | DevOps/SRE | AI/Automation | PM |
 |-------|------------|---------------|----|
-| AWS (EKS/EC2/RDS) | Terraform/K8s/Docker | LangChain/n8n/RPA | PRINCE2/Agile |
+| AWS (EKS/EC2/RDS) | Terraform/Docker | LangChain/n8n/RPA | PRINCE2/Agile |
 | Azure/GCP | CI/CD/Jenkins | Blue Prism Agents | OKRs/SLOs |
 | IAM/VPC | Dynatrace Monitoring | GenAI PoCs | 20-25 Team Lead |
 
