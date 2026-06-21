@@ -1,6 +1,6 @@
 # About Me
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=  Cloud+Architect+%7C+AI+Automations;15%2B+Yrs+Exp+AWS%2FK8s;LangChain+AI+PoCs;Terraform+IaC+Expert;Open+to+DE+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=435&lines=Cloud+Architect+%7C+AI+Automations;15%2B+Yrs+Exp+AWS%2FK8s;LangChain+AI+PoCs;Terraform+IaC+Expert;Open+to+DE+Roles" alt="Typing SVG" />
 </div>
 
 ## 👋 Hi, I'm Yogesh Yadav
