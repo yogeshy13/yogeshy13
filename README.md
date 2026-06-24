@@ -25,7 +25,8 @@
 [![Engineering Helper Tool](https://github.com/yogeshy13/AI-Developer-Assistant)
 > AI Assistant helping developer
 
-
+> Terraform guide
+https://github.com/yogeshy13/learn-terraform-get-started-aws
 
 ## 📊 GitHub Stats
 
