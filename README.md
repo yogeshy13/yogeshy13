@@ -28,6 +28,9 @@
 > Terraform guide
 https://github.com/yogeshy13/learn-terraform-get-started-aws
 
+> Working with Dockers, Databases and Kubernates simplified 
+https://github.com/yogeshy13/cloud-document-platform
+
 ## 📊 GitHub Stats
 
 ![Metrics](https://github-readme-stats.vercel.app/api?username=yogeshy13&show_icons=true&theme=radical&hide_border=true)
