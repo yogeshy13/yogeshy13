@@ -9,7 +9,7 @@
 
 - 🔭 Leading GenAI adoption with LangChain agents & workflow automation 
 - 💼 15+ years: AWS/Azure/GCP, Terraform, Kubernetes, Dynatrace/AppDynamics 
-- 🌍 Berlin-based, Chancenkarte → Work Permit | German A2→B1
+- 🌍 Berlin-based, Work Permit | German B1
 - ⚡ Fun fact: Reduced infra costs 25% via SRE error budgets!
 
 ## 🛠️ Core Skills
